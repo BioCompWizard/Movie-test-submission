@@ -64,7 +64,7 @@ It demonstrates good practices like multi-stage builds (though simplified here f
 # How to Build, Test, and Run
 # Prerequisites
 Git, Go, Python 2/3, Docker Desktop installed.
-Clone this repository: git clone [your-repo-url].
+Clone this repository: git clone [https://github.com/BioCompWizard/Movie-test-submission].
 
 # Building and Running Locally (Without Container)
 Server: In movie-server folder, make build, then make run (runs on :8080).
